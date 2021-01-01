@@ -1,0 +1,22 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--dark-cyan);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 35.3rem;
+  height: 37.6rem;
+  background-color: white;
+  border-radius: 2rem;
+  overflow: hidden;
+
+  &__header {
+    width: inherit;
+    height: 14.1rem;
+    background-image: url(../images/bg-pattern-card.svg);
+  }
+}
