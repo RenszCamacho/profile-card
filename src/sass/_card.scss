@@ -1,4 +1,4 @@
-.main {
+main {
   width: 100%;
   min-height: 100vh;
   background-color: var(--dark-cyan);
@@ -8,7 +8,7 @@
   background-image: url(../images/bg-pattern-top.svg),
     url(../images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+  background-position: right 52vw bottom 38vh, left 49vw top 51vh;
 }
 
 .card {
@@ -17,7 +17,7 @@
   background-color: white;
   border-radius: 2rem;
   overflow: hidden;
-  margin: 2rem;
+  margin: 5rem;
   box-shadow: -30px 50px 50px #00000030;
 
   &__header {
