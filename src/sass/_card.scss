@@ -19,4 +19,39 @@
     height: 14.1rem;
     background-image: url(../images/bg-pattern-card.svg);
   }
+
+  &__body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 0.5px solid var(--border);
+    padding: 2.3rem 0;
+  }
+
+  &__img {
+    margin-top: -8rem;
+    border: 5px solid white;
+    border-radius: 50%;
+    background-color: white;
+  }
+
+  &__title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--dark-blue);
+    padding-top: 1.3rem;
+
+    span {
+      color: var(--dark-gray);
+      font-size: inherit;
+      font-weight: 400;
+      padding-left: 0.3rem;
+    }
+  }
+
+  &__location {
+    color: var(--dark-grayish-blue);
+    font-size: 1.5rem;
+  }
 }
