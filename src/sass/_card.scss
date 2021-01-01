@@ -13,6 +13,7 @@
   background-color: white;
   border-radius: 2rem;
   overflow: hidden;
+  margin: 2rem;
 
   &__header {
     width: inherit;
@@ -53,5 +54,27 @@
   &__location {
     color: var(--dark-grayish-blue);
     font-size: 1.5rem;
+  }
+
+  &__footer {
+    // width: inherit;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2.4rem 0;
+    text-align: center;
+  }
+
+  &__social {
+    span {
+      font-size: 12px;
+      color: var(--dark-grayish-blue);
+    }
+  }
+
+  &__numbers {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--dark-blue);
+    text-transform: uppercase;
   }
 }
