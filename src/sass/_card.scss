@@ -19,7 +19,6 @@ main {
   overflow: hidden;
   margin: 5rem;
   box-shadow: -30px 50px 50px #00000030;
-  cursor: pointer;
 
   &__header {
     width: inherit;
@@ -78,10 +77,21 @@ main {
     font-weight: 700;
     color: var(--dark-blue);
     text-transform: uppercase;
-    display: block;
+    display: inline;
   }
+
+  &__kg {
+    display: inline;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--dark-blue);
+    text-transform: uppercase;
+    margin-left: -0.4rem;
+  }
+
   &__label {
     font-size: 12px;
     color: var(--dark-grayish-blue);
+    display: block;
   }
 }
