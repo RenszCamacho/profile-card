@@ -8,7 +8,7 @@ https://card-fm.netlify.app/
 
 # Profile Card Component - Frontend Mentor Challenge.
 
-This is a Frontend Mentor Challenge, newbie-level. A beautiful challenge that I've really enjoyed it. Using Css Flex-box and Css Grid. Pure HTML CSS and JS. (No frameworks)
+This is a Frontend Mentor Challenge, newbie-level. A beautiful challenge that I've really enjoyed it. Using Css Flex-box. Pure HTML and CSS.
 
 # Challenge Requirements.
 
@@ -20,11 +20,11 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-# To get started:
+## To get started:
 
-## Clone the repository
+### Clone the repository
 
-## Install the dependencies
+### Install the dependencies
 
 ```bash
 git clone https://github.com/RenszCamacho/profile-card
