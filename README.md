@@ -8,7 +8,7 @@ https://card-fm.netlify.app/
 
 # Profile Card Component - Frontend Mentor Challenge.
 
-This is a Frontend Mentor Challenge, newbie-level. A beautiful challenge that I've really enjoyed it. Using Css Flex-box. Pure HTML and CSS.
+This is a Frontend Mentor Challenge, newbie-level. A beautiful challenge that I've really enjoyed it. Using Css Flex-box and some Css and Js animation. Pure HTML, CSS and Js.
 
 # Challenge Requirements.
 

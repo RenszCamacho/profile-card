@@ -70,10 +70,7 @@ main {
   }
 
   &__social {
-    span {
-      font-size: 12px;
-      color: var(--dark-grayish-blue);
-    }
+    list-style: none;
   }
 
   &__numbers {
@@ -81,5 +78,10 @@ main {
     font-weight: 700;
     color: var(--dark-blue);
     text-transform: uppercase;
+    display: block;
+  }
+  &__label {
+    font-size: 12px;
+    color: var(--dark-grayish-blue);
   }
 }
