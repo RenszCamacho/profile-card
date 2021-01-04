@@ -64,12 +64,18 @@ main {
   &__footer {
     display: flex;
     justify-content: space-evenly;
-    padding: 2.4rem 0;
+    padding: 1.9rem 0;
     text-align: center;
   }
 
   &__social {
     list-style: none;
+    width: 7rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   &__numbers {
